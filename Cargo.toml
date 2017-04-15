@@ -2,6 +2,9 @@
 name = "datastore-sys"
 version = "0.1.0"
 authors = ["Robert Lord <robert@lord.io>"]
+description = "protobuf derived code for accessing Google Cloud Platform's Datastore"
+license = "MIT"
+repository = "https://github.com/lord/datastore-sys"
 
 [dependencies]
 grpc            = "0.*"
